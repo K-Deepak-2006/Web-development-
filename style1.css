@@ -1,0 +1,84 @@
+ul{
+    list-style-type: none;
+    display: flex;
+}
+li{
+    padding: 25px;
+    font-size:20px;
+}
+header{
+    display: flex;
+    background-color: whitesmoke;
+}
+.container{
+    background-color:rgb(230, 219, 205);
+    display: flex;
+    padding: 30px;
+}
+img{
+    height: 30rem;
+    width: 30rem;
+    border-radius: 50%;
+}
+.photo{
+    padding-top: 25px;
+}
+.matter{
+    padding-left:75px;
+    padding-top: 0;
+}
+.hello{
+   font-size: 7rem;
+   padding: 0%;
+}
+.me{
+    font-size: 5rem;
+    padding: 0%;
+}
+.projects{
+    border-radius:50%;
+    background-color: deeppink;
+     padding: 3rem;
+     color: white;
+     text-decoration:none;
+}
+.edu{
+    border-radius:50%;
+    background-color: rgb(69, 156, 202);
+     padding: 3rem;
+     color: white;
+     text-decoration:none;
+}
+.mu{
+    border-radius:50%;
+    background-color: rgb(108, 154, 53);
+     padding: 3rem;
+     color: white;
+     text-decoration:none;
+}
+.nav{
+    padding-left:57%;
+    padding-top: 25px;
+}
+.name{
+    padding-left: 30px;
+}
+footer{
+    background-color: black;
+    color: white;
+    padding-left:50% ;
+}
+a{
+    text-decoration: none;
+    color:silver;
+}
+a:hover{
+    color:skyblue
+}
+.data{
+    font-size:25px;
+}
+.contact{
+    color: blue;
+    font-size: large;
+}
